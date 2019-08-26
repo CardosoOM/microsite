@@ -1,0 +1,28 @@
+        body {
+            font-size: 12px;
+            margin: 0 auto;
+            background-color: snow;
+            color: blue;
+            font-weight: bold;
+            font-family: "Satisfy", cursive;
+            font-size: 2rem;
+            font-style: italic;
+            background-image: url("../image/praia.jpg");
+            background-position: contain;
+            background-size: cover;
+            background-repeat: no-repeat;
+            /* the background is a beach in Aveiro - Portugal */
+            /* Using italic handwritting font to give a smooth beachie feeling to the message */
+        }
+        
+        .text {
+            letter-spacing: 4px;
+            color: rgb(66, 66, 146);
+            word-spacing: 20px;
+            text-align: center;
+            font-size: 36px;
+            vertical-align: 80px;
+            margin-top: 80px;
+            margin-left: 120px;
+            margin-right: 120px;
+        }
